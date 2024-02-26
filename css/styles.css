@@ -25,6 +25,12 @@ body {
 	background-color: #eeb5d9;
 }
 
+.fw-bolder {
+	color:mediumvioletred;
+}
+
+.language-list list-unstyled
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
