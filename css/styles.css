@@ -10,10 +10,14 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: linear-gradient(45deg, pink, white);
+	background-color: pink;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
+
+.bg-gradient {
+	background-color: linear-gradient(45deg, pink, white);
+}
 
 .resume-header {
     background-color: #ffe0f4;
