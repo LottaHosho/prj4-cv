@@ -10,7 +10,7 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: linear-gradient(to right, rgb(255, 0, 170) , rgb(244, 185, 218));
+	background-color: linear-gradient(45deg, pink, white);
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
